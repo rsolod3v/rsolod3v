@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**rsolod3v/rsolod3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> What's up everyone?! I'm glad to see you here! 🐦<h3>
+  <p align="center">
+  
+  ## About me
+  
+  - 🤵 22yo
+  - 🇧🇷 Brazilian
+  - 💻 Game-developer
+  
+  ## Skills
+  
+  [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio)](https://skillicons.dev)
+  
+  <br>
+  
+  ![RsoloD3v's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsolod3v&show_icons=true&count_private=true&hide_border=true&theme=purple)
