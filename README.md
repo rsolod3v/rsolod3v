@@ -13,4 +13,4 @@
   
   <br>
   
-  ![RsoloD3v's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsolod3v&show_icons=true&count_private=true&hide_border=true&theme=purple)
+  ![RsoloD3v's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsolod3v&show_icons=true&count_private=true&hide_border=true&theme=blue)
