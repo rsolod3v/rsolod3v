@@ -1,12 +1,16 @@
-<h3 align="center"> What's up everyone?! I'm glad to see you here! 🐦<h3>
-  <p align="center">
+<h3 align="center">What's up everyone?! I'm glad to see you here! 🐦</h3>
+
+<p align="center">
   
-  ## About me
-  
-  - 🤵 22yo
-  - 🇧🇷 Brazilian
-  - 💻 Game-developer
-  ### 🎮 Hey, I'm RsoloD3v
+## 🧩 About me
+
+- 🤵 22yo  
+- 🇧🇷 Brazilian  
+- 💻 Game Developer  
+
+---
+
+### 🎮 Hey, I'm RsoloD3v
 
 I'm an indie developer who loves creating 2D games with **GameMaker**.  
 I focus on atmosphere, small details, and giving each project its own soul — even the unfinished ones.  
@@ -23,10 +27,13 @@ I focus on atmosphere, small details, and giving each project its own soul — e
 
 > *“Even small worlds can make someone dream.”*
 
-  ## Skills
-  
-  [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio)](https://skillicons.dev)
-  
-  <br>
-  
-  ![RsoloD3v's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsolod3v&show_icons=true&count_private=true&hide_border=true&theme=dark)
+---
+
+## 🧠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=gamemakerstudio)](https://skillicons.dev)
+
+<br>
+
+![RsoloD3v's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsolod3v&show_icons=true&count_private=true&hide_border=true&theme=dark)
+</p>
