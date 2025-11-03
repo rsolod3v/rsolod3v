@@ -46,6 +46,6 @@ I focus on atmosphere, small details, and giving each project its own soul — e
 ---
 
 <p align="center">
-  <i>Crafted by RsoloD3v — because even silence has a soundtrack.</i>
+  <i>Crafted by RsoloD3v & ChatGPT — because even silence has a soundtrack.</i>
 </p>
 </p>
