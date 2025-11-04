@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubPerfils/Icons/Gifs/ReadmeBanner.gif" width="900">
+  <img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubPerfils/Icons/Dark/Gifs/ReadmeBanner.gif" width="900">
 </p>
 
 <h3 align="center">What's up everyone?! I'm glad to see you here! 🌙</h3>
@@ -35,7 +35,7 @@ I focus on atmosphere, small details, and giving each project its own soul — e
 
 ---
 
-<a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubIcons/Itchio.svg" width="64"></a>
+<a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubPerfils/Icons/Light/Statics/Github-light.png" width="64"></a>
 
 
 
