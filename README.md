@@ -37,7 +37,6 @@ I focus on atmosphere, small details, and giving each project its own soul — e
 
 <a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubIcons/Itchio.svg" width="64"></a>
 <a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubIcons/Interneticon.svg" width="60"></a>
-
 <a href="https://rsolod3v0.itch.io" target="_blank"><img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubIcons/gifteste.gif" width="60"></a>
 
 
