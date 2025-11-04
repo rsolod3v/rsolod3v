@@ -35,7 +35,7 @@ I focus on atmosphere, small details, and giving each project its own soul — e
 
 ---
 ---
-[![github](https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Downloads/Icons/Icons/Itch-Io.svg)][https://github.com/rsolod3v]
+[![github](https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Downloads/Icons/Icons/Itch-Io.svg)[https://github.com/rsolod3v]]
 
 ## 🧠 Skills
 
