@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://videos.openai.com/az/vg-assets/task_01k93ggs31ean8exp1waknf3ay%2F1762128415_img_1.webp?se=2025-11-09T00%3A08%3A49Z&sp=r&sv=2024-08-04&sr=b&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-11-02T12%3A34%3A38Z&ske=2025-11-09T12%3A39%3A38Z&sks=b&skv=2024-08-04&sig=qwyEN1FX90uCVMgtVBXdAodi0wARyDq52PoviApD7UA%3D&ac=oaivgprodscus2" width="900">
+  <img src="https://www.canva.com/design/DAG3tgIEr84/fAcMpCkg8FHj_rcxy3h-FQ/edit?utm_content=DAG3tgIEr84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="900">
 </p>
 
 <h3 align="center">What's up everyone?! I'm glad to see you here! 🌙</h3>
