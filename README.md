@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG3tgIEr84/fAcMpCkg8FHj_rcxy3h-FQ/edit?utm_content=DAG3tgIEr84&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="900">
+  <img src="https://raw.githubusercontent.com/rsolod3v/My-Icons/refs/heads/main/Documents/GithubPerfils/Icons/Gifs/ReadmeBanner.gif" width="900">
 </p>
 
 <h3 align="center">What's up everyone?! I'm glad to see you here! 🌙</h3>
